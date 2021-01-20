@@ -1,3 +1,3 @@
 # API en GO
 
-Proyecto realizado en steraming: https://twith.tv/vicentdev
+Proyecto realizado en steraming: https://twitch.tv/vicentdev
